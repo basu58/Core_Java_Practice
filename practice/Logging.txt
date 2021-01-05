@@ -1,0 +1,8 @@
+Jun 20, 2020 1:14:43 PM com.basu.logger.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Jun 20, 2020 1:14:43 PM com.basu.logger.UseLogger doSomeThingAndLog
+SEVERE: Info Log
+Jun 20, 2020 1:14:43 PM com.basu.logger.UseLogger doSomeThingAndLog
+WARNING: Info Log
+Jun 20, 2020 1:14:43 PM com.basu.logger.UseLogger doSomeThingAndLog
+INFO: Info Log
