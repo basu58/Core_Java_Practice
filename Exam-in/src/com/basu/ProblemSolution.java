@@ -3,7 +3,7 @@ package com.basu;
 public class ProblemSolution {
 	public int solution(int N, int K) {
 		
-		int x
+		int x;
 		return 0;
 	}
 	public int pallindrome(int N) {
